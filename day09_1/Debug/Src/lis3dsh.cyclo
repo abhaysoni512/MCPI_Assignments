@@ -1,0 +1,6 @@
+../Inc/system_stm32f4xx.h:131:20:DelayMs	2
+../Src/lis3dsh.c:11:6:LIS_WriteIO	2
+../Src/lis3dsh.c:23:6:LIS_ReadIO	2
+../Src/lis3dsh.c:37:6:LIS_Init	1
+../Src/lis3dsh.c:48:10:LIS_GetData	1
+../Src/lis3dsh.c:69:5:LIS_DRdy	2

@@ -1,0 +1,2 @@
+../Src/switch.c:10:6:SwitchInit	1
+../Src/switch.c:21:5:SwitchGetState	2
